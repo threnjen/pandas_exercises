@@ -1,0 +1,2 @@
+[1009/174048.997:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Wadkins\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\83792886-e3ed-4e35-b94f-0d252dc064a3: The system cannot find the path specified. (0x3)
+[1009/192522.137:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
